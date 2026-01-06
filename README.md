@@ -1,6 +1,6 @@
-# Olá, eu sou o [SEU NOME] 👋
+# Olá, meu nome é Alana 👋
 
-### Desenvolvedor Front-end em formação | Estudante de [Seu Curso]
+### Desenvolvedor Front-end em formação | Estudante de Ciência da computação
 
 Sou um entusiasta da tecnologia focado em criar interfaces web modernas e funcionais. Atualmente, estou cursando **[Nome da sua Faculdade]** e dedicando meus estudos ao ecossistema Front-end, com foco em HTML5, CSS3 e JavaScript (ES6+).
 
@@ -44,5 +44,5 @@ Por ser um estudante de modalidade remota, desenvolvi alta capacidade de **autod
 
 ### 📫 Como me encontrar
 
-* **LinkedIn:** [link-para-seu-perfil]
-* **Email:** [seu-email@exemplo.com]
+* **LinkedIn:** www.linkedin.com/in/alana-nery-marinho-36a295250
+* **Email:** lananery123@gmail.com
